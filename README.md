@@ -12,3 +12,5 @@ there is a pressing need for a secure and transparent blockchain-based voting
 system. Such a system would leverage the inherent features of blockchain
 technology, including immutability, decentralization, and cryptographic security,
 to ensure the integrity and transparency of the voting process.
+
+This project addresses the above issues and provides a secured blockchain based voting system.
